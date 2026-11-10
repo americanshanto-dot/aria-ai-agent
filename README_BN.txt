@@ -1,0 +1,1 @@
+ARIA AI Agent — GitHub Pages demo\n\nUpload all files in this folder to the root of your GitHub repository. Then enable GitHub Pages from Settings > Pages, using Deploy from a branch, branch main, folder /(root).\n\nThis is an installable PWA interface demo only. No AI model/API is connected yet. It requires HTTPS hosting (GitHub Pages provides this).
